@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Soft Spoken Promises Tonight
+
+This log tracks the cryptographic history and versioning for the song **Soft Spoken Promises Tonight** (soft-spoken-promises-tonight).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-11T19:05:31.660379 | `v1` | `183fdd789b84cdf9abaad7a013d2f3f7e23e6bc67b636866e467eefa9ddb9287` | `e3e0e9742ae365a229eb094bb46a5caf138761dd214ec780534ea61be1499df5` | `2026-06-11_soft-spoken-promises-tonight-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
