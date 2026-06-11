@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/soft-spoken-promises-tonight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Soft Spoken Promises Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-spoken-promises-tonight/) |
+| **Get License** | [Get a Licensing Quote for Soft Spoken Promises Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-spoken-promises-tonight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when you pull me near
+> The world goes quiet when you are here
+> Let the fading light just slip away
+> With soft spoken promises we say
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
